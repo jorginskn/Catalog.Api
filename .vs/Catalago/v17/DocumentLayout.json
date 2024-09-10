@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\Catalago\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|c:\\projetos\\catalago\\catalogo.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|solutionrelative:catalogo.domain\\validation\\domainexceptionvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|c:\\projetos\\catalago\\catalogo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|solutionrelative:catalogo.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|c:\\projetos\\catalago\\catalogo.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|solutionrelative:catalogo.domain\\entities\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|c:\\projetos\\catalago\\catalogo.domain\\catalogo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D83F964-FA74-4737-A0E6-CF49A91949EB}|Catalogo.Domain\\Catalogo.Domain.csproj|solutionrelative:catalogo.domain\\catalogo.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Catalogo.Domain",
+              "DocumentMoniker": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Catalogo.Domain.csproj",
+              "RelativeDocumentMoniker": "Catalogo.Domain\\Catalogo.Domain.csproj",
+              "ToolTip": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Catalogo.Domain.csproj",
+              "RelativeToolTip": "Catalogo.Domain\\Catalogo.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T20:05:24.455Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DomainExceptionValidation.cs",
+              "DocumentMoniker": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeDocumentMoniker": "Catalogo.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ToolTip": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Validation\\DomainExceptionValidation.cs",
+              "RelativeToolTip": "Catalogo.Domain\\Validation\\DomainExceptionValidation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T20:06:19.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Entities\\Entity.cs",
+              "RelativeDocumentMoniker": "Catalogo.Domain\\Entities\\Entity.cs",
+              "ToolTip": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Entities\\Entity.cs",
+              "RelativeToolTip": "Catalogo.Domain\\Entities\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:58:52.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Catalogo.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Catalogo.Domain\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T19:48:57.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
