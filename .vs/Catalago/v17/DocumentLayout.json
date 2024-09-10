@@ -26,12 +26,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Catalogo.Domain",
+              "Title": "Catalogo.Domain.csproj",
               "DocumentMoniker": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Catalogo.Domain.csproj",
               "RelativeDocumentMoniker": "Catalogo.Domain\\Catalogo.Domain.csproj",
               "ToolTip": "C:\\Projetos\\Catalago\\Catalogo.Domain\\Catalogo.Domain.csproj",
@@ -39,8 +39,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-09-07T20:05:24.455Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Document",
@@ -65,8 +68,7 @@
               "RelativeToolTip": "Catalogo.Domain\\Entities\\Entity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:58:52.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T19:58:52.236Z"
             },
             {
               "$type": "Document",
@@ -78,12 +80,7 @@
               "RelativeToolTip": "Catalogo.Domain\\Entities\\Category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T19:48:57.94Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+              "WhenOpened": "2024-09-07T19:48:57.94Z"
             }
           ]
         }
